@@ -1,0 +1,11 @@
+{
+    "name": "pds/coursework",
+    "type": "standard",
+    "description": "Coursework",
+    "homepage": "https://github.com/Dimalag/learn-php-2022",
+    "autoload": {
+        "psr-4": {
+            "Pds\\Skeleton\\": "src/"
+        }
+    }
+}
